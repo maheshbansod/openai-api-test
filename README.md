@@ -7,5 +7,8 @@
 OPENAI_ORGANIZATION=org_jdslfkjd
 OPENAI_API_KEY=api_key
 ```
-3. `yarn start`
-
+## Usage
+ ```
+ yarn install
+ yarn start
+ ```
